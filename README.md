@@ -1,2 +1,2 @@
-# flatpak-screenshots
-Screenshots for the Flatpak repackage of Thunderbird.
+# Thunderbird Flatpak screenshots
+This repo contains screenshots for the Flatpak repackage of Thunderbird.
